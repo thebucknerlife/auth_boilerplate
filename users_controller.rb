@@ -9,7 +9,7 @@ class UsersController < ApplicationController
 
     if @user.save
       session[:user_id] = @user.id
-      redirect_to secret_page_path
+      redirect_to #secret_page_path
     else
       render :new
     end
