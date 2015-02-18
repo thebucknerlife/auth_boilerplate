@@ -9,6 +9,7 @@ Auth is tedious. Save youself some time and use these boilerplate files to whip 
 * Logout, Login and Signup names routes.
 * ERB templates for Signup and Login using `form_for`.
 * Helper methods for `current_user` and `authorize` in ApplicationController.
+* Link for users to signup, login & logout in the layout file.
 * Flash message support in the layout file.
 * Reminder to install `Bcrypt`
 * Rails command to generate your User model.
