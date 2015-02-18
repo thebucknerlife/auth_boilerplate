@@ -1,10 +1,8 @@
 #Rails Authentication Boilerplate
----
 
 Auth is tedious. Save youself some time and use these boilerplate files to whip up auth quickly and safely! Boom!
 
 ##What's included?
----
 
 * A Users Controller with new and create.
 * A Sessions Controller with new, create and destroy.
@@ -17,7 +15,6 @@ Auth is tedious. Save youself some time and use these boilerplate files to whip 
 * User model with sensible validations and bcrypt password support via `has_secure_password`
 
 ##Installation
----
 
 1. Generate a boilerplate user:
 
@@ -38,18 +35,16 @@ Auth is tedious. Save youself some time and use these boilerplate files to whip 
 7. Pour yourself a margharita and enjoy your new auth.
 
 ##Contribute
----
 
 Got any improvements? Feel free to fork, edit, commit, and pull-request. I check this repo often and will get back to you ASAP.
 
 Thanks!
 
-##Legal Blah (aka the MIT License)
----
+##Legal
 
 The MIT License (MIT)
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2015 Greg Buckner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
